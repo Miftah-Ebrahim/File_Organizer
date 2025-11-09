@@ -1,5 +1,5 @@
 """
-File Organizer Script
+Automated File Organizer Script
 A simple Python program to automatically organize files into folders by type.
 
 Created by: [Miftah Ebrahim]

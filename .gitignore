@@ -1,0 +1,27 @@
+# In terminal
+code .gitignore
+```
+
+Paste this content:
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+file_organizer_*.log
+test_files/
