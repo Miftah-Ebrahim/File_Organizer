@@ -19,7 +19,7 @@ A Python script that automatically organizes files into categorized folders base
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Miftah-Ebrahim/File_Organizer/blob/main/File_Organizer.py
+git clone https://github.com/Miftah-Ebrahim/File_Organizer/
 cd file-organizer-project
 ```
 
@@ -90,6 +90,7 @@ self.file_types = {
 This project is open source and available under the MIT License.
 
 ## 👤 Author
+Miftah Ebrahim
 
 ## 🙏 Acknowledgments
 
@@ -97,5 +98,6 @@ This project is open source and available under the MIT License.
 - Inspired by the need to organize messy Downloads folders!
 
 ---
+
 
 ⭐ If you found this helpful, please star this repository!
